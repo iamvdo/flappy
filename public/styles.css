@@ -1,0 +1,13 @@
+body {
+  background: #E4DEA5;
+  margin: 0;
+  padding: 0;
+}
+#screen {
+  margin: 0;
+  width: 100%;
+  _max-height: 500px;
+  _max-width: 500px;
+  position: relative;
+  overflow: hidden;
+}
