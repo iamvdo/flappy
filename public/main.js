@@ -227,7 +227,7 @@ function update() {
 
     // be sure to stop motion of clones on the floor
     if (bird != birdie && bird.body.bottom >= game.world.bounds.bottom) {
-      birdie.body.velocity.x = 0;
+      //birdie.body.velocity.x = 0;
     }
 
     // Angles
